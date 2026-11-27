@@ -1,3 +1,4 @@
 .hyperframes/
-renders/render.log
+renders/*
+!renders/*.mp4
 node_modules/
